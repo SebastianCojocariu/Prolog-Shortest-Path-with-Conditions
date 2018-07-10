@@ -1,4 +1,6 @@
-        				                TEMA 2
+ COJOCARIU SEBASTIAN 321CB UPB ACS     				    
+					    
+					   		TEMA 2
 				                         -PP-
 
 Ideea centrala pentru rezolvarea problemei consta in a efectua un bfs.
